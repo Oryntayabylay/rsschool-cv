@@ -1,4 +1,4 @@
 # rsschool-cv
 
 
-[MY CV](https://Oryntayabylay.github.io/rsschool-cv/cv)
+[MY CV](https://Oryntayabylay.github.io/rsschool-cv/)
