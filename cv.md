@@ -9,3 +9,8 @@
  * English level: b+
  * Math degree
  * Webdev
+
+## Basic skills
+* Math
+* Acting
+* Marketing
